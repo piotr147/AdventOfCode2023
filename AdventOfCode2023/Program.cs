@@ -60,4 +60,5 @@ Dictionary<int, Day> InitializeDays() =>
     new()
     {
         [1] = new Day1(),
+        [2] = new Day2(),
     };
